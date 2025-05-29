@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BS-MS in Physics, IISER Pune, 2027 (Expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall and Spring Semester Projects (2024-25):
+  * Indian Institute of Science Education and Research (IISER) Pune
+  * Duties include: Investigating cross-correlations between the 3D matter power spectrum and galaxy clusters with
+the Nearest Neighbor Cumulative Distribution Functions (NNCDFs) to impose stronger bounds on the
+total mass of the three neutrino mass eigenstates compared to the matter power spectrum.
+  * Supervisor: Dr. Arka Banerjee 
+* Summer 2024: Summer Intern
+  * National Astronomical Observatory of Japan, Mitaka, Tokyo
+  * Duties include:  Developing a new joint catalogue of Type Ia supernovae, focused on studying how the Hubble Constant evolves with redshift, possibly helping to mitigate the long-standing Hubble Constant tension.
+  * Supervisor: Dr. Maria Giovanna Dainotti
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Online Summer Intern
+  * Tata Institute of Fundamental Research, Mumbai
+  * Duties include: Learning about LMXBs and their X-ray spectra, learning HEASoft to do light curve analysis of AstroSat data
+  * Supervisor: Dr. Sudip Bhattacharyya
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Mathematica
+* Git
+* Matlab
+* $\LaTeX$
 
 Publications
 ======
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Blah Blah

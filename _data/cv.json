@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Anargha Mondal",
+    "email": "anargha.mondal@students.iiserpune.ac.in",
+    "phone": "+91- 6289990710",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Undergraduate student at the Indian Institute of Science Education and Research, Pune. I am majoring in Physics, with an interest in cosmology and particle physics. I enjoy working on projects that mix both of these. ",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "Hostel 1 (BS-MS), IISER Campus, Dr. Homi Bhabha Road, Pashan",
+      "postalCode": "400118",
+      "city": "Pune",
+      "countryCode": "Indian",
       "region": ""
     },
     "profiles": [
@@ -20,45 +20,37 @@
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Anargha Mondal",
+        "url": "https://orcid.org/0009-0005-4659-1349"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "anargham14",
+        "url": "https://github.com/anargham14?tab=overview&from=2025-05-01&to=2025-05-17"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "IISER Pune",
+      "area": "BS-MS (Physics)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "endDate": "2027",
+      "gpa": 8.6,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "South Point High School",
+      "area": "Higher Secondary",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     }
+    
   ],
   "skills": [],
   "languages": [],
@@ -66,62 +58,27 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A New Master Supernovae Ia sample and the investigation of the H0 tension",
+      "publisher": "Journal of High Energy Astrophysics",
+      "releaseDate": "",
+      "website": "https://arxiv.org/abs/2501.11772",
+      "summary": "This paper is under review at the Journal of High Energy Astrophysics. I will add more details once it is accepted.",
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Talk on The Hubble Tension",
+      "event": "IISER Pune Science Club and Astro Club Joint Talk",
+      "date": "2024-11-13",
+      "location": "Pune, Maharashtra, India",
+      "description": "Will add later"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Talk on The Hubble Tension",
+      "event": "Lagrangians-2-Lasers Journal Club",
+      "date": "2024-11-14",
+      "location": "Pune, Maharashtra, India",
+      "description": "Will add later"
     }
   ],
   "teaching": [
