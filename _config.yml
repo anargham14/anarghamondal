@@ -27,8 +27,8 @@ author:
   pronouns         : "he/him"  
   bio              : "I am an undergrad at IISER Pune. I have a passion for devising computational approaches to problems in theoretical cosmology and particle physics"
   location         : "Pune, Maharashtra, India"
-  #employer         : "Indian Institute of Science Education and Research Pune"
-  uri              : # URL
+  #employer         : #"Indian Institute of Science Education and Research Pune"
+  #uri              : # URL
   email            : "anargha.mondal@students.iiserpune.ac.in" 
 
   # Academic websites
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/anargha-mondal-b8236b1b3/""
+  linkedin         : "https://www.linkedin.com/in/anargha-mondal-b8236b1b3/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

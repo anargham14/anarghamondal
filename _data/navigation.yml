@@ -27,4 +27,7 @@ main:
     url: /markdown/ 
 
   - title: "Credits"
-    url: /credits/ 
+    url: /credits/
+
+  - title: "Extra-Curriculars"
+    url: /extra/ 
