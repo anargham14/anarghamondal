@@ -52,12 +52,9 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Blah Blah
+* Coordinator, Helicase, the Science Magazine of IISER Pune (2023-2024)
+* ‘Cosmic Forums’ Team Member, Aakashganga, Astronomy Club of IISER Pune (2024-)
+* Physics Question-Making Team Member, Mimamsa (2022- )
+* Core Team Member, Math Club, IISER Pune (2022-2024)
