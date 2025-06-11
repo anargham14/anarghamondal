@@ -41,3 +41,10 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+// Custom background image
+body {
+  background-image: url('/images/themes/Website_background.png'); // Adjust path as needed
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; // Optional: keeps image fixed on scroll
+}
