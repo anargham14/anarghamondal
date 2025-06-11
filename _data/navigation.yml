@@ -15,12 +15,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Blog Posts"
-  #   url: /year-archive/
   
       
   - title: "CV"
     url: /cv/
+  - title: "Cool Stuff"
+    url: /year-archive/
+  
+  
   - title: "Hobbies"
     url: /extra/ 
     
