@@ -3,6 +3,7 @@ permalink: /research/
 title: "Research Interests"
 author_profile: true
 ---
+"It is wrong to think that the task of physics is to find out how nature *is*. Physics concerns what we can *say* about nature " - *Niels Bohr*
 
 I haven't boiled down to a particular stream of research yet, but broadly they relate to large-scale structure formation in the universe and a bit of astroparticle physics.
 
