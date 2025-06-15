@@ -22,7 +22,7 @@ repository               : anargham14/anarghamondal.github.io #"academicpages/ac
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Anargha_Mondal.jpg"
+  avatar           : "Anargha_Mondal.png"
   name             : "Anargha Mondal"
   pronouns         : "he/him"  
   bio              : "I am an undergrad at IISER Pune. I have a passion for devising computational approaches to problems in theoretical cosmology and particle physics"
