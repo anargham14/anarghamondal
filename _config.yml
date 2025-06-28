@@ -22,7 +22,7 @@ repository               : anargham14/anarghamondal.github.io #"academicpages/ac
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Anargha_Mondal.png"
+  avatar           : "Anargha_Mondal.jpg"
   name             : "Anargha Mondal"
   pronouns         : "he/him"  
   bio              : "I am an undergrad at IISER Pune. I have a passion for devising computational approaches to problems in theoretical cosmology and particle physics"
@@ -91,8 +91,8 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : true      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -120,7 +120,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true    # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -133,7 +133,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "&twitter"
 facebook:
   username               :
   app_id                 :
@@ -167,8 +167,6 @@ exclude:
   - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
   - assets/js/vendor
   - CHANGELOG
   - Capfile

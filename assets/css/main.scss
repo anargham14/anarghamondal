@@ -42,16 +42,16 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 // Custom background image
-html[data-theme="light"] body {
-  //background-color: #f8f9fa; // Or your preferred color
-  // Or for an image:
+html[data-theme="light"] body,
+html[data-theme="light"] {
   background-image: url('/images/themes/Screenshot_20250614_055147.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   min-height: 100vh;
 }
-html[data-theme="dark"] body {
+html[data-theme="dark"] body,
+html[data-theme="dark"] {
   background-image: url('/images/themes/Screenshot_20250614_055200.png'); // Adjust path as needed
   background-size: cover;
   background-repeat: no-repeat;
