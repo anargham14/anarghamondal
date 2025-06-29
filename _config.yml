@@ -160,7 +160,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - assets/js
+  - assets/js/plugins/jquery.greedy-navigation.js
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
