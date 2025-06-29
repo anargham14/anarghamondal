@@ -24,3 +24,5 @@ end
 
 
 
+
+gem "faraday-retry", "~> 2.3"
