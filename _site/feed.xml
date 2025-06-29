@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/anarghamondal/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/anarghamondal/" rel="alternate" type="text/html" /><updated>2025-06-29T17:47:05+00:00</updated><id>http://localhost:4000/anarghamondal/feed.xml</id><title type="html">Anargha Mondal</title><subtitle>I am an undergrad at IISER Pune. I have a passion for devising computational approaches to problems in theoretical cosmology and particle physics</subtitle><author><name>Anargha Mondal</name><email>anargha.mondal@students.iiserpune.ac.in</email></author><entry><title type="html">Abstraction to Reality: Why is Mathematics Such a Powerful Tool to Describe Nature?</title><link href="http://localhost:4000/anarghamondal/posts/2012/08/blog-post-1/" rel="alternate" type="text/html" title="Abstraction to Reality: Why is Mathematics Such a Powerful Tool to Describe Nature?" /><published>2023-07-01T00:00:00+00:00</published><updated>2023-07-01T00:00:00+00:00</updated><id>http://localhost:4000/anarghamondal/posts/2012/08/blog-post-1</id><content type="html" xml:base="http://localhost:4000/anarghamondal/posts/2012/08/blog-post-1/"><![CDATA[<p>Something I wrote down for Helicase 2023.</p>
+
+<h1 id="abstraction-to-reality-why-is-mathematics-such-a-powerful-tool-to-describe-nature">Abstraction to Reality: Why is Mathematics Such a Powerful Tool to Describe Nature?</h1>
+
+<p>Since its inception, mathematics has been a strong catalyst for paradigm shifts in natural philosophy. Physics began around 600 B.C., when Pythagoras of Samos proclaimed an awesome vision. By studying the notes sounded by plucked strings, Pythagoras discovered that the human perception of harmony is connected to numerical ratios, which became the credo of the Pythagorean Brotherhood. The Pythagoreans, and several subsequent philosophers, believed that natural phenomena are innately mathematical, and mathematical aesthetics are not only superficial, but essential for the universe to work the way it does.</p>
+
+<p>Newton’s arrival implied a long eclipse for the Pythagorean ideal of a mathematically sophisticated Creator. Newton’s classical treatment of mechanics attributed everything to dynamics. The great developments of nineteenth-century physics, epitomized in Maxwell’s equations of electrodynamics, brought many new phenomena within the scope of physics. Still, they did not alter this situation essentially. However, the advent of quantum mechanics reinforced the Pythagorean ideal among physicists and philosophers.</p>
+
+<p>Emblematic of the new physics, and decisive historically, was Niels Bohr’s atomic model of 1913. The leitmotif of Bohr’s model is unmistakably mathematical. If anything, Bohr’s model conforms more closely to the ancient Pythagorean and Platonic ideal that <em>“God is a mathematician, and his every creation must be worthy of a mathematically inclined creator.”</em> Later work by Heisenberg and Schrödinger, which defined modern quantum mechanics, superseded Bohr’s model. This account of subatomic matter is less tangible than Bohr’s, but ultimately much richer. The mathematics describing the vibratory patterns that define the states of atoms in quantum mechanics is identical to the mathematics describing the resonance of musical instruments. The stable states of atoms correspond to pure tones. The big difference between Nature’s instruments and those of human construction is that Her designs depend not on craftsmanship refined by experience, but rather on the ruthlessly precise application of simple, mathematical rules.</p>
+
+<p>To highlight this beautiful coherence between mathematics and natural phenomena, in 1960, the celebrated theoretical physicist Eugene Wigner published an essay, <em>“The Unreasonable Effectiveness of Mathematics in the Natural Sciences.”</em> This was directly a result of his surprise at the connections he had discovered between quantum mechanics and the theory of group representations – a seemingly unrelated area of mathematics developed some 50 years earlier.</p>
+
+<p>He could hardly have predicted what would occur 20 years later in the opposite direction: an essay by the celebrated mathematician Sir Michael Atiyah, titled <em>“The Unreasonable Effectiveness of Physics in Mathematics.”</em> In his essay, he argues that the toolbox of a physicist enables a practitioner such as Edward Witten to make significant contributions to pure mathematics as well. As is well known, Ed Witten won the Fields Medal in 1990, and continues to be the only professional physicist to have ever achieved such a feat.</p>
+
+<p>So what makes mathematics and physics so interrelated? Several luminaries in various fields asked the same question, and it invoked many responses across a wide range of disciplines. The absurdity of the responses ranged from the famed Richard Hamming boldly stating that the ‘usefulness’ in question is nothing but an illusion, and humans usually create mathematics to suit the situation. On the other hand, Max Tegmark, a theoretical physicist, claimed that all of reality is just mathematics. All mathematicians do is discover (or invent? That’s a tale for another time) simpler mathematics to model our more complex and inherently mathematical universe. However, most of these responses were only ‘partial explanations’, and hence why mathematics and physics overlap still lacks a definite answer.</p>
+
+<p>But let’s get back to what really got Wigner started on the question in the very first place — the birth of quantum mechanics. Wigner summarizes his article by saying that:</p>
+
+<blockquote>
+  <p><em>“The enormous usefulness of mathematics in the natural sciences is something bordering on the mysterious and that there is no rational explanation for it.”</em></p>
+</blockquote>
+
+<p>He concludes his paper with the same question with which he began:</p>
+
+<blockquote>
+  <p><em>“The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve. We should be grateful for it and hope that it will remain valid in future research and that it will extend, for better or for worse, to our pleasure, even though perhaps also to our bafflement, to wide branches of learning.”</em></p>
+</blockquote>]]></content><author><name>Anargha Mondal</name><email>anargha.mondal@students.iiserpune.ac.in</email></author><summary type="html"><![CDATA[Something I wrote down for Helicase 2023.]]></summary></entry><entry><title type="html">Does Quantum Mechanics Matter? The POV of A Condensed Matter Physicist</title><link href="http://localhost:4000/anarghamondal/posts/2013/08/blog-post-2/" rel="alternate" type="text/html" title="Does Quantum Mechanics Matter? The POV of A Condensed Matter Physicist" /><published>2023-07-01T00:00:00+00:00</published><updated>2023-07-01T00:00:00+00:00</updated><id>http://localhost:4000/anarghamondal/posts/2013/08/blog-post-2</id><content type="html" xml:base="http://localhost:4000/anarghamondal/posts/2013/08/blog-post-2/"><![CDATA[<p>Something I wrote down way back in my first year, when I was exploring around.</p>
+
+<h1 id="does-quantum-mechanics-matter-the-pov-of-a-condensed-matter-physicist">Does Quantum Mechanics Matter: The POV of A Condensed Matter Physicist</h1>
+
+<p>Reductionism is the philosophy of explaining more complex phenomena with the aid of simpler or more elegant phenomena. According to the famous high-energy physicist Dr. Franck Wilczek:</p>
+
+<blockquote>
+  <p>“Its [reductionism] form belies its content. Explaining things is augmentation, not reduction. I much prefer Newton’s phrase, <em>Analysis and Synthesis</em>, to describe the process of breaking problems or phenomena into simpler component parts (Analysis), and then building up from those parts (Synthesis).”</p>
+</blockquote>
+
+<p>During the previous decades, the reductionist program had been profoundly successful, with the discovery of the electron, neutron, and proton; the theoretical predictions of the neutrino and the meson; the pion in cosmic rays; and many more. Yet, with the birth of solid state physics around 1940, the initial focus on one-electron properties of metals and semiconductors turned in the 1950s to the collective properties of matter through many-body theory. In due course, the field became known as <strong>condensed matter physics</strong>, reflecting the increasing focus on all matter, not just solids, and especially on collective phenomena.</p>
+
+<p>In 1988, the famous condensed matter physicist, <strong>Michael E. Fisher</strong>, authored what must surely be a candidate for his least cited paper. Entitled <em>“Condensed Matter Physics: Does Quantum Mechanics Matter?”</em>, it poses an outrageous question. Fisher aimed to review the state of condensed matter physics as it stood on the 100th anniversary of the birth of Niels Bohr, with a special remit to comment on the overlap with Bohr’s ideas on the fundamentals of quantum mechanics.</p>
+
+<p>The last decade had seen five major discoveries in condensed matter physics, ultimately garnering 5 Nobel Prizes, and each a splendid manifestation of quantum mechanics. Nevertheless, Fisher evidently did not regard his role as to provide a self-congratulatory pat on the back to condensed matter physics. Instead, he took it upon himself to explain his thoughts on:</p>
+
+<blockquote>
+  <p>“… what condensed matter physics does, or should be doing, and what defines condensed matter physics, and thence to approach the question ‘Does quantum mechanics matter?’”</p>
+</blockquote>
+
+<p>The viewpoint that he expounded was at the time still rather unorthodox in many areas of physics and science, in particular his perspective that:</p>
+
+<blockquote>
+  <p>“The question of connecting the models with fundamental principles is not a very relevant issue or central enterprise.”</p>
+</blockquote>
+
+<p>This would come as news to those in the physics community engaged in the reductionist program — including, to some extent, condensed matter physicists, but to a far greater extent, those working in high-energy physics. It quickly became clear that novel macroscopic phenomena transcended the additive properties of single degrees of freedom, and a renewed focus on collective properties was seen by many as the defining aspect of condensed matter physics. Indeed, Fisher is very clear where he stands on this point:</p>
+
+<blockquote>
+  <p>“The basic problem which underlies the subject is to understand the many, varied manifestations of ordinary matter in its condensed states and to elucidate the ways in which the properties of the ‘units’ affect the overall, many-variable systems.”</p>
+</blockquote>
+
+<p>Again, he is very explicit about the questions that animate the task of addressing the basic problem underlying condensed matter physics:</p>
+
+<blockquote>
+  <p>“What are the states of matter? … What is their nature? … How do the various states transform into one another?”</p>
+</blockquote>
+
+<p>As we will see, inextricably linked with these questions are two concepts that are subtle and took a long time to be appreciated: the notions of <strong>“minimal models”</strong> and different <strong>“levels of description.”</strong></p>
+
+<p>Fischer’s article, and the novel approaches he addressed there, was a masterly contribution that both recalled the extraordinary collision between physics and philosophy of a previous age, and heralded the dawn of a new era. The new approaches prescribed by Fischer can and have proven to be especially important for complex systems such as biology and turbulent fluid mechanics. Systems in such fields are more complex than those dealt with by physicists. In biology, there are many more levels of description than in physical systems, because of the intertwining of molecular sequence, three-dimensional structure, large-scale molecular motions, elasticity, gene expression, metabolism and energy flow, regulation, signaling, cell division, tissue mechanics, electrical activity, …, all the way up to ecology and evolutionary processes.</p>
+
+<p>Even <strong>elementary particle physicists</strong> came to the clear realization that their subject was about effective field theory, and not about fundamental physical law. Within a few years of Fisher’s article, this view was superseded by the general acceptance of effective field theory. The famous <strong>Howard Georgi</strong> describes this change in perspective in a remarkable comment that sounds the death knell for the fundamental viewpoint of elementary particle physics:</p>
+
+<blockquote>
+  <p>“How does this process end? It is possible, I suppose, that at some very large energy scale … the theory is simply renormalizable in the old sense. This seems unlikely … It may even be possible that there is no end, simply more and more scales as one goes to higher and higher energy. Who knows? Who cares?”</p>
+</blockquote>
+
+<p>So, is quantum mechanics truly an outdated tool for particle physicists? Maybe. But it is utterly clear that a <strong>reductionist</strong> approach to this discipline has been exhausted and it needs a change of perspective to move forward.</p>]]></content><author><name>Anargha Mondal</name><email>anargha.mondal@students.iiserpune.ac.in</email></author><summary type="html"><![CDATA[Something I wrote down way back in my first year, when I was exploring around.]]></summary></entry></feed>
