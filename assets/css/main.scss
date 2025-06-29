@@ -44,7 +44,7 @@
 // Custom background image
 html[data-theme="light"] body,
 html[data-theme="light"] {
-  background-image: url('/images/themes/Screenshot_20250614_055147.png');
+  background-image: url('{{ "/images/themes/Screenshot_20250614_055147.png" | relative_url }}');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -52,7 +52,7 @@ html[data-theme="light"] {
 }
 html[data-theme="dark"] body,
 html[data-theme="dark"] {
-  background-image: url('/images/themes/Screenshot_20250614_055200.png'); // Adjust path as needed
+  background-image: url('{{ "/images/themes/Screenshot_20250614_055200.png" | relative_url }}'); // Adjust path as needed
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; // Optional: keeps image fixed on scroll
