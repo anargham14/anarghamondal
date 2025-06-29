@@ -16,7 +16,6 @@ description              : &description "I am an undergrad at IISER Pune. I have
 url                      : https://anarghamondal.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/anarghamondal" # the subpath of your site, e.g. "/blog"
 repository               : anargham14/anarghamondal.github.io #"academicpages/academicpages.github.io"
-theme: null
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
