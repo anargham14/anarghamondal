@@ -9,11 +9,12 @@
     font-style: normal;
     font-weight: 500;
     font-display: block;
-    src:url('../fonts/academicons.eot');
-    src:url('../fonts/academicons.eot') format('embedded-opentype'),
-        url('../fonts/academicons.ttf') format('truetype'),
-        url('../fonts/academicons.woff') format('woff'),
-        url('../fonts/academicons.svg') format('svg');
+    src:url('{{ "/assets/fonts/academicons.eot" | relative_url }}');
+    src:url('{{ "/assets/fonts/academicons.eot" | relative_url }}') format('embedded-opentype'),
+        url('{{ "/assets/fonts/academicons.ttf" | relative_url }}') format('truetype'),
+        url('{{ "/assets/fonts/academicons.woff" | relative_url }}') format('woff'),
+        url('{{ "/assets/fonts/academicons.svg" | relative_url }}') format('svg');
+
 }
 .ai {
   font-family: 'Academicons';
